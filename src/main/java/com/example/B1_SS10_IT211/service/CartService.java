@@ -1,7 +1,7 @@
-package com.example.session10_ex1.service;
+package com.example.B1_SS10_IT211.service;
 
-import com.example.session10_ex1.dto.CartItemDTO;
-import com.example.session10_ex1.model.CartItem;
+import com.example.B1_SS10_IT211.dto.CartItemDTO;
+import com.example.B1_SS10_IT211.model.CartItem;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

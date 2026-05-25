@@ -1,4 +1,4 @@
-package com.example.session10_ex1.dto;
+package com.example.B1_SS10_IT211.dto;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

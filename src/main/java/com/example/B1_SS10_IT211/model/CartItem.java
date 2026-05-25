@@ -1,4 +1,4 @@
-package com.example.session10_ex1.model;
+package com.example.B1_SS10_IT211.model;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.example.session10_ex1;
+package com.example.B1_SS10_IT211;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
